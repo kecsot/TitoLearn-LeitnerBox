@@ -1,0 +1,1 @@
+export const pluralize = (amount: number, singular: string, plural: string) => amount > 1 ? plural : singular
